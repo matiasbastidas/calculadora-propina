@@ -3,7 +3,6 @@ const calcularPropina = () => {
     personas = document.getElementById("personas").value
 
     const propinaChile = 0.10
-
     propinaCalculada = (monto * propinaChile) / personas
     total = parseInt(monto) + parseInt(propinaCalculada)
     
