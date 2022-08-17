@@ -1,0 +1,38 @@
+* {
+    background-color: #364250;
+    color: #EFEFEF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 34px; 
+}
+
+input {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+
+.propina {
+    margin-top: 25px;
+    color:aquamarine;
+}
+
+.total {
+    margin-top: 20px;
+    color: aqua;
+}
+
+.btn-calcular {
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: aqua;
+    border-style: solid;
+    border-width: 1px;    
+    padding: 5px;   
+}
